@@ -1,0 +1,33 @@
+content:
+- Inner classes
+- The Map interface
+- Nested classes
+- Lambda expressions
+- Anonymous classes
+- Floating-point types
+- Multidimensional array
+- Regexes in programs
+- Hierarchy of exceptions
+- Factory method
+- Thread management
+- Defining classes
+- Memento
+- Singleton
+- Standard functional interfaces
+- Optional
+- Function composition
+- Facade
+- Method references
+- Decorator
+- Comparator
+- Functional data processing with streams
+- Stream filtering
+- Map and flatMap
+- Reduction methods
+- Infinite streams
+- Taking elements
+- Streams of primitives
+- Stream pipelines
+- Parallel streams
+- Grouping collectors
+- Currying

@@ -1,0 +1,43 @@
+# Project exclude paths
+/.gradle/
+/Blockchain/task/build/
+/Blockchain/task/out/
+/Blockchain/task/out/production/classes/
+/Topics/Decorator/Coffee Decorator/out/
+/Topics/Decorator/Coffee Decorator/out/production/classes/
+/Topics/Decorator/Pizza Decorator/out/
+/Topics/Decorator/Pizza Decorator/out/production/classes/
+/Topics/Defining classes/Accounts/out/
+/Topics/Defining classes/Accounts/out/production/classes/
+/Topics/Floating-point types/Difference between two doubles/out/
+/Topics/Floating-point types/Difference between two doubles/out/production/classes/
+/Topics/Function composition/Theory/out/
+/Topics/Function composition/Theory/out/production/classes/
+/Topics/Inner classes/Christmas tree/out/
+/Topics/Inner classes/Christmas tree/out/production/classes/
+/Topics/Inner classes/Improve your vehicle/out/
+/Topics/Inner classes/Improve your vehicle/out/production/classes/
+/Topics/Map and flatMap/Sorting the absolute values/out/
+/Topics/Map and flatMap/Sorting the absolute values/out/production/classes/
+/Topics/Multidimensional array/Symmetric matrix/out/
+/Topics/Multidimensional array/Symmetric matrix/out/production/classes/
+/Topics/Multidimensional array/The star figure/out/
+/Topics/Multidimensional array/The star figure/out/production/classes/
+/Topics/Optional/Check an Optional value/out/
+/Topics/Optional/Check an Optional value/out/production/classes/
+/Topics/Optional/Create an Optional value/out/
+/Topics/Optional/Create an Optional value/out/production/classes/
+/Topics/Parallel streams/Fix the sorting order/out/
+/Topics/Parallel streams/Fix the sorting order/out/production/classes/
+/Topics/Singleton/Complete the eager singleton/out/
+/Topics/Singleton/Complete the eager singleton/out/production/classes/
+/Topics/Stream filtering/Numbers filtering/out/
+/Topics/Stream filtering/Numbers filtering/out/production/classes/
+/Topics/Stream pipelines/Theory/out/
+/Topics/Stream pipelines/Theory/out/production/classes/
+/Topics/Taking elements/Secret codes/out/
+/Topics/Taking elements/Secret codes/out/production/classes/
+/Topics/Taking elements/Theory/out/
+/Topics/Taking elements/Theory/out/production/classes/
+/Topics/The Map interface/Tricky sub-maps/out/
+/Topics/The Map interface/Tricky sub-maps/out/production/classes/
